@@ -1,4 +1,4 @@
 # diy-gravastar-v60
 A DIY gravastar keyboard
 
-![Unfinished PCB](./Images/Unfinished-PCB)
+![Unfinished PCB](./Images/Unfinished-PCB.png)
