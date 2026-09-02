@@ -7,7 +7,7 @@ So today i officially started my project (i hope i finish it before the deadline
 
 # September 2nd, 2026: Finished the PCB schematics
 i finish the schematics of the keyboard today...connected all the rows and columns... so its remaining the pcb then the case
-![](./Images/Finished-SCH.png)
+![finished pcb](./Images/Finished-SCH.png)
 ![](./Imagees/MCU.png)
 
 **Total time spent: 40m**
