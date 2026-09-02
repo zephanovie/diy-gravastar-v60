@@ -4,3 +4,8 @@ So today i officially started my project (i hope i finish it before the deadline
 ![Unfinished PCB](./Images/Unfinished-PCB.png)
 
 **Total time spent: ~44m**
+
+# September 2nd, 2026: Finished the PCB schematics
+i finish the schematics of the keyboard today...connected all the rows and columns... so its remaining the pcb then the case
+
+**Total time spent: 40m**
