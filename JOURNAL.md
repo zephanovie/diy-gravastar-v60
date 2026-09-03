@@ -11,3 +11,11 @@ i finish the schematics of the keyboard today...connected all the rows and colum
 ![](./Images/MCU.png)
 
 **Total time spent: 40m**
+
+# September 3rd, 2026: Added SK6812 Mini-E leds and assigned footprints
+wow...i completely forgot im supposed to add leds to the pcb...wow they are a lot and all to be hand soldered...so i did a long hard research onn the sk6812 led datasheets and the rest and found out that the ki cad version was mirrored the other way....so i mirrored it back. Also while assiging footprint i had to search for the big keys size for the stabilizers (Tab, caps, space and the rest)...it said that tab key was 1.5u but i thought it was 2u so i just cotinued like that and yh the spacebar remained the same at 6.25u...so now for the second time....unto the pcb
+![](./Images/SK6812-MINI-E-wiring.png)
+![](./Images/SK6812-MINI-E-chain.png)
+![](./Images/MCU2.png)
+
+**Total time spent: ~43m**
