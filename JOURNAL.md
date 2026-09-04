@@ -19,3 +19,8 @@ wow...i completely forgot im supposed to add leds to the pcb...wow they are a lo
 ![](./Images/MCU2.png)
 
 **Total time spent: ~43m**
+
+# September 2nd, 2026: Decided to Make it Hot Swappable
+i literally just found out today that its possible to hot swap the actual switches themselves....i wanted to add it to my keyboard so i tried doing some research on it (suprised it took this long)...and most of what i was seeing wasn't helpful....so i had to do it 😔😔...i used AI to help me explain the whole hotswappable switchs and also south facing switches and led placements  and so i went with the kailh mx hot swap circuits...i found the foot prints from another github repo (https://github.com/daprice/keyswitches.pretty)...
+![](./Images/Hot-swap-github-repo.png)
+![](./Images/Kicad-hotswap.png)
