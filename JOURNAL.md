@@ -26,3 +26,10 @@ i literally just found out today that its possible to hot swap the actual switch
 ![](./Images/Kicad-hotswap.png)
 
 **Total time spent: ~1h**
+
+# September 2nd, 2026: Finally started the PCB
+so i started the pcb design today and boy oh boy i had ALOT of issues...i had to reassign the footprints first was for all the switches to the kailh hot swappable socket...then also resized the big keys(shift, caps and tabs keys). i made a mistake mirroring the sk6812 mini-e led.....yes the kicad one was correct as the led would be mounted on the back of the PCB...so when you flip it (putting it on the bottom of the pcb the pads align)...that was just for the footprints....the main issue that i had her was that the switch footprint just never aligned with each other.....i tried all i colud from changing grid size to changing grid origin and it still wound't align sooo to fix this i decided to use KLE(Keyboard layout editor)...and import it from there....so i had to make the exact layout in KLE...and lowk this help me find another problem....the first 3 bottom row keys weren't 1u but 1.25u and also one random key (\|) was also different at 1.5u....in sure this problem would have had me stressing in the future when doing the pcb...so i guess i dodged a bullet....and to reduce errors and to make it easier later i had to rename the schematics to their respective keys i have'nt changed those keys yet or lay out the pcb ...that would be in the next log(hopefully)
+![](./Images/New-SCH.png)
+![](./Images/kle.png)
+
+**Total time spent: ~1h 15m**
