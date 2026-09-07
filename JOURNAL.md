@@ -41,3 +41,13 @@ yh...so the idea of using kle worked pretty well...tho i had to rearrange the di
 ![](./Images/3d-veiw-back.png)
 
 **Total time spent: 1h 23m**
+
+# September 7th, 2026: Finally finished the pcb...bruhh!!!!
+yh so today i finnaly finished the pcb design....i didnt follow the refrence for this pcb design (for obviouse reasons).... bro 4h straight aint no joke...but i finnaly did it...i think that the only problem i encountered...was that placing the leds in ascending order was a wrong choice....so i placed it in descending order for easier routing....yh a lot of things but i guess i finished it...now its too move on to the case...anyways here are some pictures
+![](./Images/finished-pcb-design.png)
+![](./Images/finished-pcb-3d.png)
+
+**Total time spent: 4h 37m**
+
+
+
