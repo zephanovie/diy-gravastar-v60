@@ -49,5 +49,12 @@ yh so today i finnaly finished the pcb design....i didnt follow the refrence for
 
 **Total time spent: 4h 37m**
 
+# September 8th, 2026: Finished troubleshooting the pcb
+so i really thought this part would be a work in the park and prolly take like 5mins...so i didnt bother recording in laspe...(it wasnt....). so to start, i first had to do a copper filled zone and connect it to ground which seemed pretty simple...but nah they where ALOT of islands (100+ unconnected items) so i had to individually connect the islands together as there were a lot of componets on the islands...and then the led footprint had a little clearance so i had to edit that since i kept getting errors... and i added some graphics too on the silkscreen layer and yh....i got a lot of warning (483+)...but they were mostly just silkscreeen clearance and it being clipped by other stuffs...so i just ignored them ...and so the main errors i got from drc that had to be resolved were just the unconnected items (turns out i missed a diode to the row ) and the clearance issuse between ALL my leds and the edge cuts....
+![](./Images/real-finished-pcb.png)
+![](./Images/real-finished-pcb-3d-front.png)
+![](./Images/real-finished-pcb-3d-back.png)
+
+**Total time spent: ~1h**
 
 
