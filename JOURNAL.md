@@ -57,4 +57,9 @@ so i really thought this part would be a work in the park and prolly take like 5
 
 **Total time spent: ~1h**
 
+# September 9th, 2026: Started the keyboard plate
+yh so basically i started the key board plate today...its not complete yet as there are still some unknowns and i have added the stablizers cut out yet....
+![](./Images/plate-1.png)
+
+**Total time spent: 1h 22m**
 
