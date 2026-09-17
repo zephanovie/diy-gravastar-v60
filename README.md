@@ -2,5 +2,5 @@
 A DIY gravastar keyboard
 
 
-![Unfinished PCB](./Images/Unfinished-PCB.png)
+![](./Images/real-finished-pcb-3d-front.png)
  (to anyone seeing this now....ill edit it later soo.....check the [journal](./JOURNAL.md) for now)
