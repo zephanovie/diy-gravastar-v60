@@ -63,3 +63,9 @@ yh so basically i started the key board plate today...its not complete yet as th
 
 **Total time spent: 1h 22m**
 
+# September 18th, 2026
+well ive been busy for a while and i could continue the project but we are back now.....so yh i switched.....imma build my own keyboard...i call it wiebz-k1...so i started the case...i did the front case and the back case and fitted everything together.....my fusion kept crashing over and over again which go really annoying....well i cant really blame it, i was using about 97% of ram sooo...anyways whats remaning is just to add the screw holes to the back and front case and ill be done with that
+![](./Images/full-case.png)
+
+**Total time spent: 3h 25m**
+
